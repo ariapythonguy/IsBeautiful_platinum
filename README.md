@@ -1,2 +1,2 @@
-# IsBeautiful_platinum
-store for IsBeautiful cosmetics
+# teyzee-storefront-LokYatri
+teyzee-storefront-LokYatri-app
